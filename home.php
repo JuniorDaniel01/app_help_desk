@@ -1,16 +1,3 @@
-<?php
-session_start();
-
-echo $_SESSION['x'];
-
-echo $_SESSION['y']; = 1500;
-
-
-?>
-
-
-
-
 <html>
   <head>
     <meta charset="utf-8" />
